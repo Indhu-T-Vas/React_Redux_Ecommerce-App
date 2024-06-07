@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/React_Redux_Ecommerce-App/static/css/main.d3030bbb.css",
+    "main.js": "/React_Redux_Ecommerce-App/static/js/main.c91d0bdb.js",
+    "static/js/453.12861972.chunk.js": "/React_Redux_Ecommerce-App/static/js/453.12861972.chunk.js",
+    "static/media/Mac.png": "/React_Redux_Ecommerce-App/static/media/Mac.8414ed6140c9d07556a4.png",
+    "static/media/apple_ipad.png": "/React_Redux_Ecommerce-App/static/media/apple_ipad.9f6fc8605a2f9360c624.png",
+    "static/media/macOS.jpg": "/React_Redux_Ecommerce-App/static/media/macOS.f8e3c0c48d4a30c876c3.jpg",
+    "static/media/oneplus_11r_red.png": "/React_Redux_Ecommerce-App/static/media/oneplus_11r_red.3ca40d206ed8f6c19507.png",
+    "static/media/HP_laptop.png": "/React_Redux_Ecommerce-App/static/media/HP_laptop.e73efdf11cc0fefb3536.png",
+    "static/media/apple_red_airpods.jpg": "/React_Redux_Ecommerce-App/static/media/apple_red_airpods.81dc42b1ce5a9a387e3a.jpg",
+    "static/media/vivo.webp": "/React_Redux_Ecommerce-App/static/media/vivo.a83e0d8ac8a22b35370a.webp",
+    "static/media/iphone.jpg": "/React_Redux_Ecommerce-App/static/media/iphone.ed7452d8c7f5893c4d11.jpg",
+    "static/media/OnePlus_Nord.jpg": "/React_Redux_Ecommerce-App/static/media/OnePlus_Nord.320244a3b80d6efaf07f.jpg",
+    "static/media/Samsung.jpg": "/React_Redux_Ecommerce-App/static/media/Samsung.1c3d9bfe6decfffb6f3c.jpg",
+    "static/media/HP_Pavilion_Gaming_Laptop.jpg": "/React_Redux_Ecommerce-App/static/media/HP_Pavilion_Gaming_Laptop.d635703afeae4a0b5437.jpg",
+    "static/media/iPhone_X.jpg": "/React_Redux_Ecommerce-App/static/media/iPhone_X.3a3b9e760249bec43af8.jpg",
+    "static/media/apple_watch.jpg": "/React_Redux_Ecommerce-App/static/media/apple_watch.33ede9b8cdc38fd76a8c.jpg",
+    "static/media/double_door_refrigerator.jpg": "/React_Redux_Ecommerce-App/static/media/double_door_refrigerator.62874892da5ff800d5f6.jpg",
+    "static/media/Mac_Airbook_10.avif": "/React_Redux_Ecommerce-App/static/media/Mac_Airbook_10.87a29230c12f164edb78.avif",
+    "static/media/apple_airpods.jpg": "/React_Redux_Ecommerce-App/static/media/apple_airpods.5e5f0e0f8af5fe9f05e8.jpg",
+    "static/media/samsung_9.jpg": "/React_Redux_Ecommerce-App/static/media/samsung_9.fa0c680f3b244871c06b.jpg",
+    "static/media/Washer_Dryer_hp.avif": "/React_Redux_Ecommerce-App/static/media/Washer_Dryer_hp.d1cec7ad5940c4749e14.avif",
+    "static/media/Washing_Machines_Front.avif": "/React_Redux_Ecommerce-App/static/media/Washing_Machines_Front.9c066ad7f1b751184822.avif",
+    "static/media/ifb.webp": "/React_Redux_Ecommerce-App/static/media/ifb.20faa922e8265e1222da.webp",
+    "index.html": "/React_Redux_Ecommerce-App/index.html",
+    "main.d3030bbb.css.map": "/React_Redux_Ecommerce-App/static/css/main.d3030bbb.css.map",
+    "main.c91d0bdb.js.map": "/React_Redux_Ecommerce-App/static/js/main.c91d0bdb.js.map",
+    "453.12861972.chunk.js.map": "/React_Redux_Ecommerce-App/static/js/453.12861972.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3030bbb.css",
+    "static/js/main.c91d0bdb.js"
+  ]
+}
